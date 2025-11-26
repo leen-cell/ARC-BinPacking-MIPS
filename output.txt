@@ -1,0 +1,7 @@
+I1 was added to bin 1
+I2 was added to bin 2
+I3 was added to bin 2
+I4 was added to bin 2
+I5 was added to bin 1
+I6 was added to bin 3
+minimum bins:3
